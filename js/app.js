@@ -23,7 +23,7 @@ function setAvailableQuestions(){
     }
 }
 function getNewQuestion(){
-    questionNumber.innerHTML ="Question "+(questionCounter+1) + " of "+ quiz.length;
+    questionNumber.innerHTML ="Prénom "+(questionCounter+1) + " a "+ quiz.length;
     optionPointer.innerHTML =(questionpoint) ;
 
     const questionIndex =availableQuestions[Math.floor(Math.random() * availableQuestions.length)];
