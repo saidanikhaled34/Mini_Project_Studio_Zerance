@@ -1,4 +1,4 @@
-# Project_Studio_Zerance
+# Mini_Project_Studio_Zerance
 ## l'application :
 * Il suffit de télécharger le fichier .zip puis d'extraire le dossier contenant le projet .Le dossie contien 3 fichie fichie HTML,CSS,JS.
 * Aller dans le dossier et cliquer sur le fichier "quiz.html" pour voir le site.
